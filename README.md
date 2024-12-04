@@ -21,4 +21,3 @@ Team members:
 
 Chip, JokerAlex21.
 
-credit to Elisha Riedlinger for the base wrapper and 13 AG.
