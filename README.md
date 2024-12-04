@@ -1,6 +1,8 @@
 # Harry-Potter-and-The-Prisoner-Of-Azkaban-PC-Fps-Fix
 This is the Harry Potter and the Prisoner of Azkaban PC game FPS fix/ limiter
 
+IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD
+
 These Launchers simply patch the game using the internal logic to put a cap on fps to solve issues inside the game relating to fps being to high such as the imp glitch with no way to limit it.
 
 you can choose from 60 or 120 fps launchers 
