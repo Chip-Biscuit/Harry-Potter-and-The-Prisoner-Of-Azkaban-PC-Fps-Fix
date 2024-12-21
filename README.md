@@ -15,7 +15,7 @@ if you wish you can create a shortcut from these onto your desktop to run the ga
 
 If you have any issues please go to discord for help 
 
-https://discord.gg/pZwkHrTF8X
+https://discord.gg/eVJ7sQH7Cc
 
 brought to you by the Fix Enhancers Team 
 
