@@ -2,30 +2,30 @@
 
 ![HP3_Fix_60FPS](https://github.com/user-attachments/assets/1dbc09c2-778a-4691-9e0f-60be527c93a5)
 
+# Requirements before using fix
+IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD BEFORE USING THE FIX.
 
-This is the Harry Potter and the Prisoner of Azkaban PC game FPS fix/ limiter
+# Information on the fix
+These launchers simply patch the game using the internal logic to put a 60fps or 120fps cap on in order to solve issues inside of the game relating to fps being too high (such as the frozen Imp glitch), as there is not proper way to limit it.
 
-IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD
+# Instructions
+Go to releases and download the latest version of the HP3-FPS-Cap-Game-Launchers.zip. Then choose either the HP3-120FPSLauncher.exe or HP3-60FPSLauncher.exe and extract the one you wish to use into your games system folder next to the hppoa.exe file and you are good to go! 
 
-These Launchers simply patch the game using the internal logic to put a cap on fps to solve issues inside the game relating to fps being to high such as the imp glitch with no way to limit it.
+Use the launcher that’s suitable for your desired FPS by clicking either the HP3-120FPSLauncher.exe or HP3-60FPSLauncher.exe to run the game at the chosen FPS limit.
 
-you can choose from 60 or 120 fps launchers 
+You can now use either the HP3-120FPSLauncher.exe or HP3-60FPSLauncher.exe files to run the game now instead of the normal hppoa.exe file. If you wish you can make a shortcut for the HP3-120FPSLauncher.exe or HP3-60FPSLauncher.exe on your desktop. 
 
-Simply go to release and download the zip file and put HP3-120FPSLauncher.exe or HP3-60FPSLauncher.exe OR BOTH into the games install location next to hppoa.exe (Harry Potter and the Prisoner of Azkaban PC exe) 
+# Vote to see the game return via GOG Dreamlist
+If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/harry-potter-and-the-prisoner-of-azkaban 
 
-use whichever launcher to run the game for whichever desired fps in game you wish to have. (double click the HP3-120FPSLauncher.exe or HP3-60FPSLauncher.exe to run the game with that chosen fps limit)
+# Issues/Problems
+If you have any issues, with the fixes then please go to discord for help linked below. https://discord.gg/eVJ7sQH7Cc
 
-if you wish you can create a shortcut from these onto your desktop to run the game from that.
+Credits
 
-If you have any issues please go to discord for help 
+Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
 
-https://discord.gg/eVJ7sQH7Cc
+Team:
 
-brought to you by the Fix Enhancers Team 
-
-https://fixenhancers.wixsite.com/fix-enhancers
-
-Team members: 
-
-Chip, JokerAlex21.
+Chip and JokerAlex21.
 
