@@ -1,4 +1,8 @@
 # Harry-Potter-and-The-Prisoner-Of-Azkaban-PC-Fps-Fix
+
+![HP3_Fix_60FPS](https://github.com/user-attachments/assets/1dbc09c2-778a-4691-9e0f-60be527c93a5)
+
+
 This is the Harry Potter and the Prisoner of Azkaban PC game FPS fix/ limiter
 
 IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD
