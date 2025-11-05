@@ -1,3 +1,11 @@
+<div align="center">
+
+# 🎮 Game Specific Patches  
+### Created & Maintained by **[Chip-Biscuit](https://chip-biscuit.github.io/)**
+Reverse Engineering • Programming • Patching • Game Improvements  
+
+</div>
+
 # Harry-Potter-and-The-Prisoner-Of-Azkaban-PC-Fps-Fix
 
 ![HP3_Fix_60FPS](https://github.com/user-attachments/assets/1dbc09c2-778a-4691-9e0f-60be527c93a5)
