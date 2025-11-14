@@ -10,7 +10,7 @@ Reverse Engineering • Programming • Patching • Game Improvements • DLL C
 
 </div>
 
-# Harry-Potter-and-The-Prisoner-Of-Azkaban-PC-Fps-Fix
+# Harry-Potter-and-The-Prisoner-Of-Azkaban-PC-FPs-Fix-With-Custom-Controller-Support
 
 ![HP3_Fix_60FPS](https://github.com/user-attachments/assets/1dbc09c2-778a-4691-9e0f-60be527c93a5)
 
@@ -23,9 +23,23 @@ These launchers simply patch the game using the internal logic to put a 60fps or
 # Instructions
 Go to releases and download the latest version of the HP3-FPS-Cap-Game-Launchers.zip. Then choose either the HP3-120FPSLauncher.exe or HP3-60FPSLauncher.exe and extract the one you wish to use into your games system folder next to the hppoa.exe file and you are good to go! 
 
-Use the launcher that’s suitable for your desired FPS by clicking either the HP3-120FPSLauncher.exe or HP3-60FPSLauncher.exe to run the game at the chosen FPS limit.
+Use the launcher that’s suitable for your desired FPS by clicking either the HP3-120FPSLauncher.exe or HP3-60FPSLauncher.exe to run the game at the chosen FPS limit. If its not working try run it as administrator.
 
 You can now use either the HP3-120FPSLauncher.exe or HP3-60FPSLauncher.exe files to run the game now instead of the normal hppoa.exe file. If you wish you can make a shortcut for the HP3-120FPSLauncher.exe or HP3-60FPSLauncher.exe on your desktop. 
+
+# Controller Support using (Chip Xinput) 
+
+Go to the releases page and download the Latest version of the HP3-Custom-Controller.zip
+
+unzip the file and put d3d8.dll and d3d8.ini into the games install location inside of (usually) C:\Program Files (x86)\EA Games\Harry Potter and the Prisoner of Azkaban(TM)\system ***hppoa***.exe 
+
+you can fully customize the layout inside of d3d8.ini all explained inside the configuration file.
+
+the default layout is as follows: 
+
+<img width="836" height="559" alt="Harry_Potter_and_the_Prisoner_of_Azkaban_Xbox_Controller_Layout" src="https://github.com/user-attachments/assets/49a50776-2720-4d87-b89d-21d40b1f34ce" />
+
+<img width="1129" height="1681" alt="Harry_Potter_and_the_Prisoner_of_Azkaban_Controls_Table" src="https://github.com/user-attachments/assets/581809c6-c3f9-4bd1-aada-af9da2f7f798" />
 
 # Vote to see the game return via GOG Dreamlist
 If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/harry-potter-and-the-prisoner-of-azkaban 
