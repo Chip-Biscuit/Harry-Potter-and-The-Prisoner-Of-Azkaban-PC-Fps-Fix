@@ -51,7 +51,8 @@ If you are interested in potentially seeing this game easily available to purcha
 # Issues/Problems
 If you have any issues, with the fixes then please go to discord for help linked below. https://discord.gg/eVJ7sQH7Cc
 
-Credits
+# Credits
+Credit to Elisha Riedlinger for the base wrapper and 13 AG.
 
 Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
 
