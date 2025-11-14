@@ -18,7 +18,7 @@ Reverse Engineering • Programming • Patching • Game Improvements • DLL C
 IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD BEFORE USING THE FIX.
 
 # Information on the fix
-These launchers simply patch the game using the internal logic to put a 60fps or 120fps cap on in order to solve issues inside of the game relating to fps being too high (such as the frozen Imp glitch), as there is not proper way to limit it.
+These launchers simply patch the game using the internal logic to put a 60fps or 120fps cap on in order to solve issues inside of the game relating to fps being too high **(such as the frozen Imp glitch)**, as there is not proper way to limit it.
 
 Including Custom Controller support so you can play the game on Xinput (must be an xinput device).
 
