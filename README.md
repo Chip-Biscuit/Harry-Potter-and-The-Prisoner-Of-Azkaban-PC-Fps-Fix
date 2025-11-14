@@ -20,6 +20,8 @@ IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD BEFORE USING THE FIX.
 # Information on the fix
 These launchers simply patch the game using the internal logic to put a 60fps or 120fps cap on in order to solve issues inside of the game relating to fps being too high (such as the frozen Imp glitch), as there is not proper way to limit it.
 
+Including Custom Controller support so you can play the game on Xinput (must be an xinput device).
+
 # Instructions
 Go to [![HP3 FPS Fix Release](https://img.shields.io/badge/release-HP3%20FPS%20Fix-blue)](https://github.com/Chip-Biscuit/Harry-Potter-and-The-Prisoner-Of-Azkaban-PC-Fps-Fix-With-Custom-Controller-Support/releases/tag/HP3-FPS-Cap-Game-Launchers) and download the latest version of the HP3-FPS-Cap-Game-Launchers.zip. Then choose either the HP3-120FPSLauncher.exe or HP3-60FPSLauncher.exe and extract the one you wish to use into your games system folder next to the hppoa.exe file and you are good to go! 
 
