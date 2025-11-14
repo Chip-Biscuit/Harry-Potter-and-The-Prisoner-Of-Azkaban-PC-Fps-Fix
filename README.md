@@ -33,6 +33,8 @@ Go to the releases page and download the Latest version of the HP3-Custom-Contro
 
 unzip the file and put d3d8.dll and d3d8.ini into the games install location inside of (usually) C:\Program Files (x86)\EA Games\Harry Potter and the Prisoner of Azkaban(TM)\system ***hppoa***.exe 
 
+Walking/ Running with the controller left stick is analog: you will be able to push the stick a small amount and walk, you will be able to push the stick fully and run. 
+
 you can fully customize the layout inside of d3d8.ini all explained inside the configuration file.
 
 the default layout is as follows: 
