@@ -1,0 +1,60 @@
+﻿  IDirect3D8.cpp
+  IDirect3DCubeTexture8.cpp
+  IDirect3DDevice8.cpp
+  IDirect3DIndexBuffer8.cpp
+  IDirect3DSurface8.cpp
+  IDirect3DSwapChain8.cpp
+  IDirect3DTexture8.cpp
+  IDirect3DVertexBuffer8.cpp
+  IDirect3DVolume8.cpp
+  IDirect3DVolumeTexture8.cpp
+  InterfaceQuery.cpp
+  dllmain.cpp
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(166,25): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(166,25): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(166,30): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(166,30): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(166,35): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(166,35): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(166,47): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(166,47): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(167,23): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(167,23): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(167,28): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(167,28): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(167,35): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(167,35): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(167,47): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(167,47): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(168,25): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(168,25): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(168,30): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(168,30): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(168,35): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(168,35): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(168,47): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(168,47): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(169,23): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(169,23): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(169,28): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(169,28): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(169,35): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(169,35): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(169,47): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(169,47): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(170,23): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(170,23): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(170,26): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(170,26): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(170,31): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(170,31): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(170,43): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(170,43): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(161,17): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(188,44): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\source\dllmain.cpp(821,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+     Creating library ..\data\d3d8.lib and object ..\data\d3d8.exp
+  d3d8-wrapper.vcxproj -> H:\downloads\d3d8-wrapper-master\d3d8-wrapper-master\data\d3d8.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
