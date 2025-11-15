@@ -47,21 +47,7 @@ the default layout is as follows:
 
 # If you experience double input 
 
-An effect of this fix can be the fact that in some cases it will make native X-input work again in your game, in that case it is important to note that in this fix for each input inside of the .ini file you can put ***= NONE*** 
-
-**for example** 
-
-***A = NONE***
-
-***B = NONE***
-
-you can do this for every input on the Xbox controller in the .ini file
-
-this will disable completely the custom (chip-xinput) layer for the game but the native x-input will still work you can either put NONE for each key as in the example above OR at the top of the ini set  ***output = 0***
-
-Otherwise you would have an xbox button doing 2 inputs inside of the game like: 
-
-**Native A = Jump in game + Chip xinput = LMB in game at the same time**
+In this specific game navigate to C:\Users\**YOU**\Documents\Harry Potter and the Prisoner of Azkaban ***hppoa.ini*** open it and then if you see occurrence of UseJoystick=True  change it to UseJoystick=False.
 
 # Vote to see the game return via GOG Dreamlist
 If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/harry-potter-and-the-prisoner-of-azkaban 
