@@ -47,7 +47,7 @@ the default layout is as follows:
 
 # If you experience double input 
 
-In this specific game navigate to C:\Users\**YOU**\Documents\Harry Potter and the Prisoner of Azkaban ***hppoa.ini*** open it and then if you see occurrence of UseJoystick=True  change it to UseJoystick=False.
+In this specific game navigate to ```C:\Users\**YOU**\Documents\Harry Potter and the Prisoner of Azkaban ***hppoa.ini***``` open it and then if you see occurrence of ```UseJoystick=True  change it to UseJoystick=False.```
 
 # Vote to see the game return via GOG Dreamlist
 If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/harry-potter-and-the-prisoner-of-azkaban 
