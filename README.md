@@ -52,15 +52,23 @@ In this specific game navigate to ```C:\Users\**YOU**\Documents\Harry Potter and
 # Vote to see the game return via GOG Dreamlist
 If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/harry-potter-and-the-prisoner-of-azkaban 
 
-# Issues/Problems
-If you have any issues, with the fixes then please go to discord for help linked below. https://discord.gg/eVJ7sQH7Cc
-
 # Credits
 Credit to Elisha Riedlinger for the base wrapper and 13 AG.
 
 Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
 
-# Team fix enhancers:
+---
+
+# Issues and Support
+
+For help or to report issues, visit the Discord server:  
+https://discord.gg/eVJ7sQH7Cc
+
+---
+
+### Fix Enhancers  
+https://fixenhancers.wixsite.com/fix-enhancers
+
 “Creating compatibility fixes and enhancements for legacy PC games.”
 
 # Chip
@@ -68,6 +76,7 @@ Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
 - reverse engineer
 - programmer
 - developer
+- Game Preservationist
   
 <img width="250" height="500" alt="my logoo" src="https://github.com/user-attachments/assets/9bb13d3f-0734-4f1d-b68f-14114b13744a" />
 
